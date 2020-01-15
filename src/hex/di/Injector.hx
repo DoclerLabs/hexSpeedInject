@@ -164,10 +164,10 @@ class Injector
 		{
 			throw( e );
 		}
-		catch ( e : Dynamic )
+		/*catch ( e : Dynamic )
 		{
 			//Do nothing
-		}
+		}*/
 
 		return instance;
 	}

@@ -6,10 +6,10 @@
   "description": "Dependency injector with very fast injections",
   "contributors": ["doclerlabs"],
   "releasenote": "SpeedInjector implementation",
-  "version": "git",
+  "version": "1.0.0-alpha.7",
   "url": "https://github.com/DoclerLabs/hexInject",
   "dependencies": 
   {
-	"hexannotation": "git:https://github.com/DoclerLabs/hexAnnotation.git"
+	"hexannotation": "1.0.0-alpha.7"
   }
 }
